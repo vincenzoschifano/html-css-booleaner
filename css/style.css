@@ -1,0 +1,29 @@
+header {
+    background-image: url("../img/pattern.png");background-color: rgb(118, 204, 248); background-size: cover;
+}
+main {
+    padding-left: 15%;
+}
+main img {
+    margin-top: 20px;
+}
+.subtitle {
+    color: gray; margin-block: 0;
+}
+body {
+    margin: 0;
+}
+ul {
+    padding: 15px;
+}
+.description { margin-block: 0; font-size: small;
+}
+
+h1 {margin-bottom: 0%;
+}
+.style1 {
+    color: blue;
+}
+.style2 {
+    background-color: yellow;
+}
