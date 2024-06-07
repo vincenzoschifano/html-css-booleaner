@@ -1,10 +1,20 @@
 header {
     background-image: url("../img/pattern.png");background-color: rgb(118, 204, 248);
 }
+header img {
+    padding: 25px;
+    padding-left: 10%;
+    width: 10%;
+    height: auto;
+}
 main {
    padding-left: 10%;padding-right: 10%;
 }
 
+main img {
+    margin-top: 10px;
+    
+}
 .subtitle {
     color: gray; margin-block: 0;
 }
@@ -27,13 +37,15 @@ h1 {
     color: blue;
 }
 .style2 {
-    background-color: yellow;
+    background-color:yellow;
+    
 }
 footer {
     background-color: rgb(68, 140, 233);
     text-align: center;
     color: white;
     font-size: small;
+    padding-block: 10px;
 }
 main {
     font-size: small;
@@ -42,6 +54,7 @@ main {
 .th {
     background-color: cornflowerblue;
     color: white;
+    text-align: left;
 }
 .styletr {
     background-color: rgb(155, 180, 204);
@@ -50,4 +63,6 @@ main {
 table {
     padding-bottom: 30px;
 }
- 
+.styletd2 {
+    padding-right: 200px;
+}
