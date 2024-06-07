@@ -1,12 +1,10 @@
 header {
-    background-image: url("../img/pattern.png");background-color: rgb(118, 204, 248); background-size: cover;
+    background-image: url("../img/pattern.png");background-color: rgb(118, 204, 248);
 }
 main {
-    padding-left: 15%;
+   padding-left: 10%;padding-right: 10%;
 }
-main img {
-    margin-top: 20px;
-}
+
 .subtitle {
     color: gray; margin-block: 0;
 }
@@ -16,10 +14,14 @@ body {
 ul {
     padding: 15px;
 }
-.description { margin-block: 0; font-size: small;
+.description { 
+    margin-block: 0; 
+    font-size: smaller;
 }
 
-h1 {margin-bottom: 0%;
+h1 {
+    margin-bottom: 0%;
+    
 }
 .style1 {
     color: blue;
@@ -27,3 +29,25 @@ h1 {margin-bottom: 0%;
 .style2 {
     background-color: yellow;
 }
+footer {
+    background-color: rgb(68, 140, 233);
+    text-align: center;
+    color: white;
+    font-size: small;
+}
+main {
+    font-size: small;
+}
+
+.th {
+    background-color: cornflowerblue;
+    color: white;
+}
+.styletr {
+    background-color: rgb(155, 180, 204);
+}
+
+table {
+    padding-bottom: 30px;
+}
+ 
